@@ -11,7 +11,7 @@ peers.
 This package has intentionally been designed so it can be used as a standalone
 package for any projects needing a full featured bitcoin peer base to build on.
 
-## Overview
+# Overview
 
 This package builds upon the wire package, which provides the fundamental
 primitives necessary to speak the bitcoin wire protocol, in order to simplify
